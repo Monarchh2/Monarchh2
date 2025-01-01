@@ -1,13 +1,15 @@
 ### 👋 Hello, I'm [Burak Yıldırım]!
 - 🚀 Passionate about software development and problem-solving.
 - 🎓 Graduate in Computer Programming.
-- 🌱 Currently focusing on **React Native** and **backend development**.
+- 🌱 Currently focusing on **React Native** and **frontend development**.
 
 ### 🛠️ My Skills
-- **Frontend**: React, React Native
-- **Backend**: Node.js, Express
-- **Database**: MongoDB, PostgreSQL
-- **Tools**: Git, VSCode
+- **Frontend**: React, React Native,TypeScript, PHP
+- **Backend**: Node.js, Express, C++, C#
+- **DevOps & Containerization**: Docker
+- **Database**: MongoDB, PostgreSQL, MySQL,
+- **Cloud Services**: AWS, Google Cloud
+- **Tools**: Git, VSCode, Docker
 
 ### 🌟 Featured Projects
 - [📈 E-Stock-Noted](https://github.com/Monarchh2/E-Stock-Noted): A stock tracking app developed using Kotlin.
