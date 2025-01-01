@@ -15,7 +15,7 @@
 - [📈 E-Stock-Noted](https://github.com/Monarchh2/E-Stock-Noted): A stock tracking app developed using Kotlin.
 - [🎬 Felix-Sinema](https://github.com/Monarchh2/Felix-Sinema): A cinema website created with HTML and CSS.
 - [🐾 BUBA-ZOO](https://github.com/Monarchh2/BUBA-ZOO): A zoo website project developed with JavaScript.
-- [🚴 BYIKE](https://github.com/Monarchh2/BYIKE): A bicycle sharing platform designed using Less.
+- [👟 BYIKE](https://github.com/Monarchh2/BYIKE): A bicycle sharing platform designed using Less.
 - [🧠 Mental-Pulse](https://github.com/Monarchh2/Mental-Pulse): A mental health project developed using Python and Jupyter Notebook.
 
 ### 📫 Contact Me
